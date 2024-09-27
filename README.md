@@ -26,3 +26,9 @@ Stream Tracker is an open-source tool designed to monitor and analyze live strea
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/stream-tracker.git
+
+2. Navigate to the project directory:
+   cd stream-tracker
+3. Install dependencies for both frontend and backend:
+   npm install
+   
