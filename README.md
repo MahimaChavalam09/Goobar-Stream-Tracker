@@ -31,4 +31,3 @@ Stream Tracker is an open-source tool designed to monitor and analyze live strea
    cd stream-tracker
 3. Install dependencies for both frontend and backend:
    npm install
-   
